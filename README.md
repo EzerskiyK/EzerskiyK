@@ -3,7 +3,7 @@
 I am Backend Developer.
 
 Contact me:
-- email ezerskiyk@gmail.com
+- email    ezerskiyk@gmail.com
 - Telegram https://t.me/Bolowww
 
 ### Technology stack
