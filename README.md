@@ -2,6 +2,27 @@
 
 I am Backend Developer.
 
+### Technology stack
+<div >
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
+	<code><img width="70" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" alt="Qt" title="Qt"/></code>
+</div>
+
+
+
+### Languages :microphone:
+
+- English - B1 (Intermediate)
+- Russian - C2 (Advanced)
+
+
+
 ### Education :mortar_board:
 - Status - 4th year student
 - Specialty - computer physics  
