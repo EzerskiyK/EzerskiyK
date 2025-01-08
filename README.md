@@ -30,7 +30,7 @@ Contact me:
 ### Education :mortar_board:
 - Status - 4th year student
 - Specialty - computer physics  
-- University - Gomel State University named after F. Skorina
+- University - State University
 
 
 ### Work experience :briefcase:
